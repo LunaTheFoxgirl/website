@@ -1,0 +1,29 @@
+a:hover {
+    color: crimson !important;
+}
+
+.btn.btn-link, a:visited, a {
+    color: red;
+}
+
+.fab {
+    font-size: 30px;
+}
+
+.btn.t-b {
+    color: #55CDFC;
+    font-size: 24px;
+}
+
+.btn.t-w {
+    color: #FFFFFF;
+    font-size: 24px;
+}
+
+.btn.t-p {
+    color: #F7A8B8;
+    font-size: 24px;
+}
+html {
+    scroll-behavior: smooth;
+}
